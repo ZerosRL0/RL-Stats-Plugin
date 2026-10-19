@@ -1,4 +1,4 @@
-RL Stats - Rocket League Tracker
+RL Stats - Rocket League Stats
 
 INSTALLATION
 1. Install [Millennium](https://github.com/SteamClientHomebrew/Millennium) for Steam.
